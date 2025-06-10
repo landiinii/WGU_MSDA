@@ -1,0 +1,16 @@
+https://www.postgresql.org/docs/current/sql-copy.html
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-cast/
+https://help.salesforce.com/s/articleView?id=001466279&type=1
+https://help.tableau.com/current/pro/desktop/en-us/actions_filter.htm
+
+Bureau, U. S. C. (n.d.-a). Median Income By Zip code. Explore census data. https://data.census.gov./table/ACSST5Y2022.S1901?q=median+income&g=010XX00US%248600000
+Bureau, U. S. C. (n.d.-b). Total Population. Explore census data. https://data.census.gov/table/DECENNIALDHC2020.P1?g=010XX00US%248600000
+Create bins from a continuous measure. Tableau. (n.d.-b). https://help.tableau.com/current/pro/desktop/en-us/calculations_bins.htm
+R/datasets on reddit: How to obtain median income data for ZIP codes. Reddit.com. (n.d.). https://www.reddit.com/r/datasets/comments/hixfeo/how_to_obtain_median_income_data_for_zip_codes/ 
+
+
+
+to reference for help
+https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8a1e42b5-f1f3-490d-a9f0-af8500dcf248
+https://www.reddit.com/r/WGU_MSDA/comments/17ll7lv/d211/
+https://www.reddit.com/r/WGU_MSDA/comments/10jm9kv/complete_d211_advanced_data_acquisition/

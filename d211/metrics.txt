@@ -1,0 +1,19 @@
+customer's table:
+- longitude
+- latidude
+- churn
+- tenure
+- monthly charge
+
+location table:
+- state
+
+
+customer_income
+population median income
+zipCode Population
+Average monthly charge
+
+
+Customers Per Capita = (COUNTD([Case Order]) * 10000) / Sum([ZipPopulation])
+Ratio of Cust to Pop Incomes = MEDIAN([Customer Income])/AVG([Population Median Income])

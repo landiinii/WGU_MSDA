@@ -1,0 +1,17 @@
+select 
+	c.customer_id,
+	c.lat as "Latitude", 
+	c.lng as "Longitude", 
+	c.churn, 
+	c.tenure, 
+	c.monthly_charge, 
+	c.income as "Customer Income",
+	l.state, 
+	l.zip,
+	i.median_income as "Population Median Income",
+	p.population_count as "ZipPopulation"
+from customer c
+join location l on l.location_id=c.location_id 
+    and l.state not in ('PR', 'AK', 'HI')
+join incomes i on i.location_id=l.location_id
+join populations p on p.location_id=l.location_id
